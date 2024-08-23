@@ -1,0 +1,26 @@
+{
+  "name": "Juan Cox",
+  "age": 33,
+  "address": {
+    "street": "Bahi Manor",
+    "city": "Zoaguzo",
+    "state": "AK",
+    "zip": "04751"
+  },
+  "contact": {
+    "phone": "(981) 223-3733",
+    "servicePhone": "800928313"
+  },
+  "birthday": "1983-03-26T12:02:55.472Z",
+  "ip": "230.128.131.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Missedac riiswa if reeli abbothuh kuijrow hejah mif serog ju bodun tunif. Oreuredi ko fohci fivo ufiwa jel cobad hucwuhvu fe onezugol pujga ek ga gihgev tawsoik kerop. Ha difmapdon umsi wep sujpofdac temis wi huisedo mez gas ciguas iticur gew puzatjaj ri kenlabwe hi ja. Mum koktehih mew web jubmupva uzis ewuli ebogieba jo uma sikla lo ic dennuldag on utke.",
+    "bio": "Barif kiobowi fuwam cahujite havo negjugwi rem megeg senlopu bejicu ahabejuk hoezecip. Ocepekco hivucdap abina hunedi udroz pirnaur hizmutem uncez buwimro uwi bewapu papamime rone gelase pa fepunuma di zoisamob. Ajeli daw esalog fac weraced ton zel wepbe bu artif jiogja jizfure sugtev nohkez fecru waewi. Diwopini utilaz balu cifobvos kukbudu ervu fevagi gippanin ha jehgedhe tiivizi fisiza sehavlez. Foviznu cifek sojvus wot pokrotava nucseem du nisadciz culeka ahibitmo ra gop pofehe vefiwha wuevaab obdab ma hudogo. Icmelvo weheope nedu peuja usisibuz ewedon ujcuap moc mabe ikebemi puewbo zup haga kuowas koz."
+  },
+  "apiKey": "c772647b5c878c9d6a8c5563132d47a1c66f722ccbc801f70fc198c740621eb6",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}

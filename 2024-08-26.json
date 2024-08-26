@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Terry",
+  "age": 53,
+  "address": {
+    "street": "Ukmo Mill",
+    "city": "Pahpaule",
+    "state": "ME",
+    "zip": "18842"
+  },
+  "contact": {
+    "phone": "(237) 260-4128",
+    "servicePhone": "800245437"
+  },
+  "birthday": "1983-12-11T06:11:01.773Z",
+  "ip": "213.30.18.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Satega imizo kuktovu mofofu fepencep sudagi dicehjaj tuwwum wevneuca ib hofuome rohfeiz ruzav ji wehhivfa. Devleltu sanfus didgifow ci da nivta kuhguman abe vufnep por najebro lazguz lom. Ki jenba riccis evovvah ju emgetfac fiwci beolpad pet pozagu re vasakme vun lofo ejiki jud.",
+    "bio": "Ibofud mu ku ja sawag urealuv jiz wemgoku takitmo nape pocavcir gavocoh tihilak. Fojinigi fucri kuruun iru vuojwa gew vo ruf uzriive lul erewoca iposirwe ha zecivdum ag lacfo. Fen sa an mo ewfafli ugute oruga maiw vormew eti hoisiti seg fielueva so leavu riba ne ri. Lu ukeimi jehew ipede nanasebo webkakabo mi ik ewovvub kobo bip eble wuk fa capwu zen zadjate wues. Luncev nezi co bulorje owace emhaj naw fu fud dalhopre tovuweg mi. Reej me ohado re defdig tuogozor ovmari sav zovbaf ihto mi be takarizo jok bic rihdot ovu egujosu. Ki derolu rutpom wumi mop eveorocic tarnos fosivze zuc os ursa geweogi."
+  },
+  "apiKey": "c6728d03b2fd9d946dc1545c03960a211052f43a19f56be771e3109058a095e8",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}

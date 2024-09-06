@@ -1,0 +1,26 @@
+{
+  "name": "Earl Reid",
+  "age": 37,
+  "address": {
+    "street": "Fiid Street",
+    "city": "Coisif",
+    "state": "ND",
+    "zip": "34142"
+  },
+  "contact": {
+    "phone": "(308) 838-4552",
+    "servicePhone": "800847495"
+  },
+  "birthday": "1982-05-18T09:36:01.864Z",
+  "ip": "50.212.185.0",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi zur jatzew uriaji rabhum ve ir pe bidez ik jo wakelo pewijane olu geb. Gu keizake uz ideawuvak hab bamsudti sabu enuuceis zitakesi gigacem gifmatup tujwarub ruec webivhe jivcop mi. Mef hukaciti jigujo uhanac je epnucdez tenuf edeokdon linulab local vegidvo cik he kenzofceh jekop zenool ti. Ango kewgicuc lemsopem iz pefiniiko orja kakazwu rur sarmali soezwer gi ilewiz padwuha vob dip hat dobug kejwik.",
+    "bio": "Ci kurlu vabewoozi iwosesow ide neriiva az lu gowjagu nug kozegepiv pazofe kas otiup oweaj. Bocorini red cemzehiw fedivbut su luvob urtohtaf anetawi zasonuji feroom coja du hevodel hev. Zazpav gid ebcezeh pammukog mog bew ca cokwu obwodew ru roejubu ecu bedez."
+  },
+  "apiKey": "1ce33a42ff2d58f182214c53d9e49c9ca2cba7c916250e44d0ef9fc952fb754a",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}

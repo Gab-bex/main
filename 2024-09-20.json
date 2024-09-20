@@ -1,0 +1,26 @@
+{
+  "name": "Carolyn Morton",
+  "age": 49,
+  "address": {
+    "street": "Tavo Path",
+    "city": "Ecesacpa",
+    "state": "VA",
+    "zip": "62824"
+  },
+  "contact": {
+    "phone": "(280) 327-7130",
+    "servicePhone": "800979728"
+  },
+  "birthday": "1973-02-24T07:22:16.109Z",
+  "ip": "68.252.55.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Agowis tevadsi zevoleca daib to vuldek huga ama pe kic amawaha vejeci ebopo fombebre jize keplaj cagob. Vec lepjusu kivgodilu oddim zoahe su ca ew gi na da naz. Imafi isle epoz fureguh jov vof fuclonuv nazasjiz kuroco hiaza jojiri bajluci mosirnen hagwovo tabez.",
+    "bio": "Ido horulgiz mi ve sombaccen fu ni osvefi kebok kozvewnu pu hac. Gadug nok kub jonugfik cal jisu itu vasifi wukfov butal zoc cokkiuc it du ocewuw mela terecejoh. Jakmejo jifagla wozeb fedo veobva kov onza hacokod dakodpa nukmed rirobicak onhezwif. Jahbov kul uzazeade buwhuv haruwet vufdit mu basbaj socedso bewato lu kaf zob wacnuz miztakke cerdeeca zunpa. Hukavdi zuf jimgawe ripkoike rawdu wuvuowo ji moc higpu sendi utfo ku sevefmos rawad iweha cowerok ulcorwu lo. Uciib kiuci mama fiv izfora zaw rapsicol cesa olniam vazcuvta co da kinteh uze cijawofa lumporuk. Osenadum docolu fohwavok gupni eficet avawi rathe fetak olukame id jiwto difcopeb pi gorzavi vah pajne."
+  },
+  "apiKey": "6a93ea806f3459b1510e4eca376b0c0dd72e87275c952fa62aaf77aab416b78a",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}

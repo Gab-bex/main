@@ -1,0 +1,26 @@
+{
+  "name": "Evan Wise",
+  "age": 56,
+  "address": {
+    "street": "Lunkum Heights",
+    "city": "Fiduhatap",
+    "state": "FL",
+    "zip": "56260"
+  },
+  "contact": {
+    "phone": "(282) 343-4161",
+    "servicePhone": "800631421"
+  },
+  "birthday": "1985-01-30T08:29:06.402Z",
+  "ip": "1.223.241.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Laohoge likaf pogfok mil ko tuf kewe ped kod degfuw jowomib were. Rirohevi letlegu efunra sepviite fiw solafdob izaho je dusujmo tazjit gon cebutu ib. Kawwij serurekud kopav ol paji wuwib zokod dibci logsewrit ja oksuj dog. Pazavpil oberu li rolwerag fusutuka pisusca faipawa wiehin hugga ana tatihpup okfose ru caw.",
+    "bio": "Zov aku eliwab rapah gukfu paftol velar vu cezpoduna ikjigni ope iv luzgo jidi mesuv him numjawbuh. Zazga wa ulcago gifsoz duhfoju hit bu cil vohiuc razirav wukhafujo wuowa bepinla agopow. Nejachuw ijenouz coarvu ru vifwajru up feghur hihivi dej tu fipalti mo."
+  },
+  "apiKey": "20e8f724532c5be8d95113c87a8e56505e27d27e2d08d87d20504bb2e48a20f6",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}

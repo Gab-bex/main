@@ -1,0 +1,26 @@
+{
+  "name": "Jean Tran",
+  "age": 24,
+  "address": {
+    "street": "Coite Center",
+    "city": "Envewke",
+    "state": "OH",
+    "zip": "41514"
+  },
+  "contact": {
+    "phone": "(532) 258-2606",
+    "servicePhone": "800676919"
+  },
+  "birthday": "2006-02-24T04:50:24.412Z",
+  "ip": "127.6.253.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Jef jac camid doococo ura maceras ceip zonnus onpij ciweku gaoki zorrur col mortih du mu apuecolad. Pepi kenuim wes icokugec varer zaruhi geeni tesa lepih ga ap jisunu. Hefad zokujage adlecag vun oti jovgug to nilja gat ri buukoba nodi obhapuh zeca akioclo buc tumo. Rag etneaj mutva koggawfo jiwupdap ki elefte ekmusfis bumu umi zar horizma.",
+    "bio": "Cuvlenohe afiifowov wemjersa apa ikoreb siv ve afvom asawvi cop zuugmoz detnanti olomip jezeffu movazoohi. Sasoko ad ruof isuje om doftosgeh ok abaova neje puk of hed vejku badogir olwofar sadorik mim. Satockep rapzih zob rasitvac asjahido ve sa lahujus haopoak kesiner jahda akitohrom citek up hudufrod edte jiov. Ufi tidvavi vu hegtif taduz vefje di korizha igu kajrupba racujre dezonud fe sic zole."
+  },
+  "apiKey": "93dd91e86cf43aea3fce2590d03ef0c0038bc4f656656f5005ee295e51403cb7",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}

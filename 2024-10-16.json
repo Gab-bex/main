@@ -1,0 +1,26 @@
+{
+  "name": "Roy Carlson",
+  "age": 48,
+  "address": {
+    "street": "Hirka Highway",
+    "city": "Winunono",
+    "state": "NH",
+    "zip": "28716"
+  },
+  "contact": {
+    "phone": "(374) 301-5130",
+    "servicePhone": "800789878"
+  },
+  "birthday": "1980-10-08T07:21:45.270Z",
+  "ip": "120.152.227.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Ekikimu nu zu jiune ahmu hodpuhow va pe mug pihdas di naheuj ujcilsur ehehkub. Capkizne hassobmez bu anomagfa ik zusa il ru nuoda ri kizaz dareb dim paf. Siuna vakef zo fosazi rakihonuc ek obpuwan omu hinerpar kisned lebsam set wa.",
+    "bio": "Hivos vo mibohtug bim hem anbi sizru ike zuv ahe ji tud lon. Opcen huhaz gurrenvo mitet zuolaew bo ewele buim vefu sizuvu fombug zuteb ze sase basjetkaf. Cejgemu diha pomu loaswan apfu ro vumcah sos ziz ugame ke dosal ufi. Ra wovnudga tugajo huf wow mu focjof ejkimsug cakha icvivbem jesrocge tuzespi joh lus wow zigi ruwepte. Omo zogcaz bupgapusi hiw jegulro jezema tejufe fok hiol fazuuka nan ta."
+  },
+  "apiKey": "b59ef1dfc5c903e1241f4939d8e756e6e3c70261900a2c2413208b26b50ae86b",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}

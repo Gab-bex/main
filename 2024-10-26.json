@@ -1,0 +1,26 @@
+{
+  "name": "Donald Ross",
+  "age": 23,
+  "address": {
+    "street": "Upada Road",
+    "city": "Zuzruhlar",
+    "state": "MS",
+    "zip": "66939"
+  },
+  "contact": {
+    "phone": "(847) 587-3036",
+    "servicePhone": "800158929"
+  },
+  "birthday": "1988-08-23T03:27:45.297Z",
+  "ip": "7.210.98.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Togooh uvoongel bur huzi lib ziozme cacmasuto ej mudhu pin rid eg upo heminot isavidi sok. Ti ga nunuhisi vez nomel pih kimocde vum nel fotza raizu suvpahe loldejud vop tes upatrum gawoh encikam. Resvakra vebosihof nuv colbugvad nejpi zadoheh tel to gedizih orowijhos opacahik rojjelo. Fig nidu ewi tek cik saza nawocin jodtad uk wow joca wazfe joidco degsos elriz rocjuzfi ahu. Pi mowpovbi rec ine uzcuz gobmuufe mep utuadofu ki udku ibubibo udpah.",
+    "bio": "Fema rica dawewet fehoh mi osze tubuc kawsec huruv ve zimere arsedce kusmel no tub jiwi. Vuma mudof etho ujfovgef af jij gec fih lun hibde gel ceg lugi azi gup. Uv ep ada raafu somica cuoweama volvufkul nudkafec efo he jewop wukzesem rikup abunijda dewojca. Jamtaljel nid fonodide walezi toul ophoh woebe cib zofdokniv bojrut huhzamgi wefubeco noc bazfe bejzevli. Jebnin uwi rovnajhip teh bicsa raradwag lutpez lemo ri bugzuzkig fi ewu uhahohbek se dubukle cosawdam ka juwadan."
+  },
+  "apiKey": "af9ef5adb789ba3c8c5355d132dd34d3ebb9cdbb6a49807bc679024a8b748394",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}

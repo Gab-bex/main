@@ -1,0 +1,26 @@
+{
+  "name": "Brian McDaniel",
+  "age": 48,
+  "address": {
+    "street": "Jucada Boulevard",
+    "city": "Noawzu",
+    "state": "VT",
+    "zip": "31195"
+  },
+  "contact": {
+    "phone": "(941) 324-8130",
+    "servicePhone": "800758559"
+  },
+  "birthday": "1995-03-03T01:04:33.618Z",
+  "ip": "121.86.250.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Baszobop guk ikge cibde vuuho oginiro boes tab voga tag lo zi sabo fuzego. Gig riut bil kasdo faror wos apih lirilgo memil ihnerjo maniife jumnaf vuk ziw ikievami. Coupzok megwuk kewiv ruraw vukel kir gahivu jusza dor buzjen haspaifo desuroj va biwog itri ze.",
+    "bio": "Nuih biteb tebow kesaz valziwgih rehni sopleuga rek osiwu ijzi jij nor nanepvo wa. Jampag jo utof los moles da dewcoz huwwi vogo as polukemo ofuruvu zeldaghob wudlo. Mupsom omsuepu emi cuve pu negtu ercikwok atrupzi nac ro loriwbet makbo kuli kuheov cit bofawfil namisa. Rorjabi dugehoco katto hawbinse hikhu bidgekvaz ce vo ullu opejapow me siwma vag neimo javovhiw."
+  },
+  "apiKey": "453c6ae614e0683bac0951b873315d997f155a393ff1ea0245b054bf65894f4e",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}

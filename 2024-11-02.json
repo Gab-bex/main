@@ -1,0 +1,26 @@
+{
+  "name": "Luis Garza",
+  "age": 23,
+  "address": {
+    "street": "Huhahu Street",
+    "city": "Nubifu",
+    "state": "OK",
+    "zip": "67300"
+  },
+  "contact": {
+    "phone": "(207) 252-6923",
+    "servicePhone": "800338534"
+  },
+  "birthday": "1970-01-14T02:49:21.626Z",
+  "ip": "4.217.180.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Bitsov bek wi rav virmibuz gicaba vup coow paso torun do cowwu noc ifu ri nojhoj ose onuejo. Le rugpeg fop ojobiza digadli uho kewza ceb siveibu gul falfunig gowuzap zunum ujjuh gosas ewtaflu udukawus bep. Ja erje les gawe naflal imirih das je giepa cium levheot ebikalen jilbezu upuhibo kig oknumweb. Wem ejcutva geuvraz wud wusek soc unfu ofeib huul keralug law to vodig wegno.",
+    "bio": "Ohu kiev nuno aruvuw edkepa pipbuvwew bi nuzpod ralfu ato cimbuj zojludil lonop. Ru ahuejas geh ohi vupna evkar sisodet habeb ukezohu kuslerev ibha liti tuj kimudmi ge hepa rel budo. Ehibi hujnemir he me hipbuwo ri saweufo kadifor sozodko dec zune ahi esulicuf carictud wew fu adra."
+  },
+  "apiKey": "1905b94e6db319ce1b519b12653d23f1f93e26436cc1e4a98132f0d5fe3070f8",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}

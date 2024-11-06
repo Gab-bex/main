@@ -1,0 +1,26 @@
+{
+  "name": "Jack Lyons",
+  "age": 27,
+  "address": {
+    "street": "Paven Way",
+    "city": "Zillaome",
+    "state": "CO",
+    "zip": "09480"
+  },
+  "contact": {
+    "phone": "(647) 488-8124",
+    "servicePhone": "800182751"
+  },
+  "birthday": "1960-10-09T06:51:12.197Z",
+  "ip": "120.240.218.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Woka vuv sebogcu cac kelug jefsajjod pirhoro cida jez bottu lid vo mej. Pejri ebi jaccuva kojowagi peg ravogba eti nu vawusap poke wiahci nodo vobfepim. Sat ras ritwop azokovza inujurwus vasupwed ata keud kooflom sa povas wiptudpoz atzod wer. Ebniwpeb puuwo ezwode gug hesa pebaeb vecim ra akaetele aziziela uf lanecgok loikagi ipula.",
+    "bio": "Fuv siguh ifezka ratit ven secjadzoh evsupa bifwamci kod medva mejde si. Uleti vu kid ridleel eluju eba tumbi pifa zatiov pedju gi pi. Huz do ozesit cefjom duto bof ma meb ef fen cog suke mopavva nevgopan. Enpozte ra ruvda lesibub zemce ze mo aklegep fu coslozco aga kaaf."
+  },
+  "apiKey": "e9cb9b43bd6410c4d921b97a20c6b7c88cb8b193784ee67792d2fd209363ac08",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}

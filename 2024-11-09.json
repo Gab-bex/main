@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Hale",
+  "age": 29,
+  "address": {
+    "street": "Jave Street",
+    "city": "Tintuceha",
+    "state": "ID",
+    "zip": "62836"
+  },
+  "contact": {
+    "phone": "(887) 309-7080",
+    "servicePhone": "800773935"
+  },
+  "birthday": "1978-07-23T09:37:06.006Z",
+  "ip": "114.35.158.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Edara wojumsa jup zeona rojwonoj walkuco mazje fuuhe rokuvuev nej puutemam gavi dicom beb. Oj seb je cilheen ig sujav ri dut zak hamovegi tu nila muugrud. Zi eb vondenboj ve kebaala rap mehrup rup matfa ku vocho uvnaf purto rop. Al wojid wi ogi vemzi ozuubgam buztohmow opawhi koclih kozum po vigeub aco diw. Racjuv no cabegbej ruobuki jidpab gujpit kojovku ofrit se zo unbelani adodo vos. We wobha dosanpid towo dumta didbigo bet nuumocab ta womgek pijcog jojod refcuz dabtip du. Caso ireltih kotas lacarew aketu pek howu jo vetibif negohu latlo nemo keuv.",
+    "bio": "Zulcizmo mofla uko untu hujeki giohgek zesfa pazjit itanuhavi vat dunmubwav fo duru ti kejhac uwi bejal. Sokobviv za mohah tune ofuwnu get si kiadki ovgi wi va rat uvmiuj daput wo didzum foriri. Awitecji vus duwokop is jehasbe domdeci huhdiog gujepme amaz ikahivhen juh ga mo geju."
+  },
+  "apiKey": "3e8812deec65b3dd754d77ffeb24cab4bd6c3e47916dda118295cc8f05f1d803",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}

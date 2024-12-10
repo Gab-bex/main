@@ -1,0 +1,26 @@
+{
+  "name": "Dorothy Tucker",
+  "age": 50,
+  "address": {
+    "street": "Zijli Way",
+    "city": "Ukosekuh",
+    "state": "VT",
+    "zip": "30532"
+  },
+  "contact": {
+    "phone": "(253) 393-8497",
+    "servicePhone": "800569127"
+  },
+  "birthday": "1971-07-25T02:48:59.235Z",
+  "ip": "141.76.67.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Tozlo ahogow lefuc wel memiz riz duhjijfo derag jabvawop vew uje hingu ubilari gi razmicma ozmulbe hur. Dakka kew zovhu odfoz bipaj neparuhi ulokarpal fimaf kut be iv lujak luf kudu. Gihuv ta fib fuh gamuze ova peberu ofu miosiza co fi zizja ozianaud. Go kef cofhar nagubmel tobne sif gokmujre omwiiwa ke li uhcove pupe aw pofu kehivuk pesemo joncirge.",
+    "bio": "Pegsonu lalih goavhu gowite kabjicfor du hiit gafdille mo vebagvo jofpug cawiv wikru aw kuw janwo wa rokwujto. Zeccelus saanas liviw gifdaw salelmew wihnohen edahaf taecnu kefjam uva ba iwe as hemecol. Mosmi di bem suha jib haav kokipid uso ikupi raluk gunaemu epecuduk."
+  },
+  "apiKey": "48c2275e499d1cfbcfd467bac09fb9472c0959e9d5882c251015c8e361bd633c",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}

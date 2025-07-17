@@ -1,0 +1,25 @@
+{
+    "name": "Michael Ibarra",
+    "age": 5,
+    "address": {
+        "street": "King Road",
+        "city": "Matthewbury",
+        "state": "Virginia",
+        "zip": "71224"
+    },
+    "contact": {
+        "phone": "+1-607-740-9589x157",
+        "servicePhone": "800778186"
+    },
+    "birthday": "2020-12-10",
+    "ip": "196.233.245.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Require face forward Republican song purpose. Agent become reveal fight develop national key. Wait fine house activity matter seem beautiful push.",
+        "bio": "Inside town try billion identify she walk. Provide reveal sort operation. Three child defense."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}

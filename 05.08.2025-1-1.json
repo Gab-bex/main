@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Young",
+    "age": 1,
+    "address": {
+        "street": "Miller Valleys",
+        "city": "Marilynside",
+        "state": "Minnesota",
+        "zip": "45414"
+    },
+    "contact": {
+        "phone": "859-384-4681x02024",
+        "servicePhone": "800193171"
+    },
+    "birthday": "2024-18-01",
+    "ip": "39.145.88.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Quality job cover answer. Item mention listen cup unit time. Arm partner western or interest be.\nNothing must better him. Color begin blue by. Indicate thing drive could action.",
+        "bio": "Water international cut. Popular reveal hard director however.\nKnow couple method. Sing risk run issue huge try.\nYear since state behind wait. Policy live training financial new. Study fear that."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

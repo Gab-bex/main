@@ -1,0 +1,25 @@
+{
+    "name": "Brent Collins",
+    "age": 0,
+    "address": {
+        "street": "Smith Route",
+        "city": "Lake Joseph",
+        "state": "Arizona",
+        "zip": "51441"
+    },
+    "contact": {
+        "phone": "779-946-6713",
+        "servicePhone": "800298679"
+    },
+    "birthday": "2025-14-04",
+    "ip": "155.241.173.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Social opportunity star. Set local best. Continue manager player us language film term war.\nInclude clearly all interesting raise wrong head perform. Seat but young past TV southern ask.",
+        "bio": "Teach represent need mouth result dark view. Interest fall together cultural new send rich. Might indicate teacher purpose bag business care edge. Matter they because computer miss office home."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Bruce Hernandez",
+    "age": 87,
+    "address": {
+        "street": "Christian Flats",
+        "city": "South Shane",
+        "state": "New York",
+        "zip": "96870"
+    },
+    "contact": {
+        "phone": "001-520-567-0373x213",
+        "servicePhone": "800189566"
+    },
+    "birthday": "1938-08-08",
+    "ip": "60.145.99.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Public reveal few edge start newspaper away pick. Either see point else song.\nSize often so fill maybe war. Sing environmental rock sound few.\nFall up will involve. Ask deep issue local send.",
+        "bio": "Who federal customer answer. Look just stock they land.\nAppear official open. Week American sport Congress."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

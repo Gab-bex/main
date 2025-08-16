@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Glass",
+    "age": 1,
+    "address": {
+        "street": "Kim Island",
+        "city": "South Ashlee",
+        "state": "Wisconsin",
+        "zip": "71619"
+    },
+    "contact": {
+        "phone": "(770)243-5772x85727",
+        "servicePhone": "800830693"
+    },
+    "birthday": "2024-12-06",
+    "ip": "124.171.183.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Voice resource beyond method young assume. Different control perform price line. Finish share notice friend together thing.",
+        "bio": "Phone eat some court law bad again. Stay seat kind father play indicate concern. She study news skin good whatever board ok."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}

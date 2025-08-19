@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Ryan",
+    "age": 44,
+    "address": {
+        "street": "George Gateway",
+        "city": "Lake Jackshire",
+        "state": "Virginia",
+        "zip": "32813"
+    },
+    "contact": {
+        "phone": "869.582.6203x678",
+        "servicePhone": "800845118"
+    },
+    "birthday": "1981-27-01",
+    "ip": "22.76.139.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Hope same group relate building call. Current tonight that series financial.\nEveryone garden go decide job such set. Reflect left quality its day audience east include.",
+        "bio": "Air whole far professor I. White computer key. Station for second report field."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}

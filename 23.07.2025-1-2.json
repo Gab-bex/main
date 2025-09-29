@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Parker",
+    "age": 88,
+    "address": {
+        "street": "Sean Landing",
+        "city": "South Daniel",
+        "state": "Wyoming",
+        "zip": "15879"
+    },
+    "contact": {
+        "phone": "486-353-1781x8130",
+        "servicePhone": "800203702"
+    },
+    "birthday": "1937-17-03",
+    "ip": "92.143.90.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting culture individual. At full type.\nHe let whose bag receive lead safe author. Human range program quality idea window brother. Seven cover him return heart.",
+        "bio": "A sing citizen same attention reflect. Happy country win available education our coach. Drug stand any organization travel sound."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}

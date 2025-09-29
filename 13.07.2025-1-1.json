@@ -1,0 +1,25 @@
+{
+    "name": "Abigail Jones",
+    "age": 13,
+    "address": {
+        "street": "Christopher Ports",
+        "city": "Lake Davidhaven",
+        "state": "West Virginia",
+        "zip": "16899"
+    },
+    "contact": {
+        "phone": "555.375.9524x377",
+        "servicePhone": "800302105"
+    },
+    "birthday": "2012-25-10",
+    "ip": "97.222.128.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready ready go season. Study reduce want class bit million. Use indeed record worker paper season house.\nPlay nothing yet mouth about summer. Box purpose high institution.",
+        "bio": "Also none teacher room. Movie increase too recently want. Mind fund spring stand kind clearly."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}

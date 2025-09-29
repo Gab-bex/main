@@ -1,0 +1,25 @@
+{
+    "name": "Alicia Patterson",
+    "age": 97,
+    "address": {
+        "street": "Hernandez Camp",
+        "city": "Leeburgh",
+        "state": "New Mexico",
+        "zip": "26339"
+    },
+    "contact": {
+        "phone": "001-449-363-8291x0434",
+        "servicePhone": "800012883"
+    },
+    "birthday": "1928-07-11",
+    "ip": "148.229.38.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Decade beautiful image decade. Where author call point best. Box I around picture century pull official.",
+        "bio": "Think fund fact including. Art rock foot chance change. Push kind law. Newspaper he drug through environmental strategy.\nOnly strong must decade. Will only tax seem. Huge degree whom law gas have."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}

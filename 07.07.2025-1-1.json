@@ -1,0 +1,25 @@
+{
+    "name": "Betty Hunt",
+    "age": 114,
+    "address": {
+        "street": "Tonya Harbor",
+        "city": "Mitchellborough",
+        "state": "Rhode Island",
+        "zip": "65573"
+    },
+    "contact": {
+        "phone": "(542)516-6653x68300",
+        "servicePhone": "800348923"
+    },
+    "birthday": "1911-27-09",
+    "ip": "97.239.233.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Ten finish data.\nDetail major technology until.\nScientist less buy region. Their glass song big can follow material.\nAs understand whether. Time project friend.",
+        "bio": "Plan sound American something democratic example truth.\nMedia around image industry entire call career. Around whatever vote several piece. Natural first see yet majority sea activity."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}

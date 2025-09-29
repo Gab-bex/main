@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Crosby",
+    "age": 114,
+    "address": {
+        "street": "Hobbs Point",
+        "city": "North Kimberlytown",
+        "state": "Michigan",
+        "zip": "62282"
+    },
+    "contact": {
+        "phone": "+1-472-968-6664x9379",
+        "servicePhone": "800538864"
+    },
+    "birthday": "1911-30-06",
+    "ip": "13.226.144.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge issue Democrat strategy participant. Box international station shoulder every attorney term there.",
+        "bio": "Who amount total support they such quality. Itself arm ability lose. Thousand prepare summer phone."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}

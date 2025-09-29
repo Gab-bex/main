@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Black",
+    "age": 90,
+    "address": {
+        "street": "Reyes Tunnel",
+        "city": "South Danielside",
+        "state": "Massachusetts",
+        "zip": "19542"
+    },
+    "contact": {
+        "phone": "211.565.4086x4217",
+        "servicePhone": "800149246"
+    },
+    "birthday": "1935-28-11",
+    "ip": "40.129.203.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Everybody so whole help woman weight hit degree. Lay great water student church of movement.\nAll suggest four. Become why team indeed we focus. Without nation management.",
+        "bio": "Many authority success talk account hotel. Guy last food probably learn. Big boy military within throw."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}

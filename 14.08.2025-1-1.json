@@ -1,0 +1,25 @@
+{
+    "name": "William Delacruz",
+    "age": 56,
+    "address": {
+        "street": "Brenda Rest",
+        "city": "Port Danielburgh",
+        "state": "New York",
+        "zip": "25616"
+    },
+    "contact": {
+        "phone": "8656380822",
+        "servicePhone": "800502988"
+    },
+    "birthday": "1969-24-10",
+    "ip": "164.39.244.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Research include line a myself. Brother build purpose exactly discover full.\nWho challenge mouth receive mission. Sometimes firm poor fact leave development.",
+        "bio": "Development bring term later. Collection case section son. Organization assume suddenly physical speak role think.\nNational since whose believe traditional."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

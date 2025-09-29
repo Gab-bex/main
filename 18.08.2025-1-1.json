@@ -1,0 +1,25 @@
+{
+    "name": "Jerry White",
+    "age": 45,
+    "address": {
+        "street": "Heather Brook",
+        "city": "South Loriside",
+        "state": "Nevada",
+        "zip": "61133"
+    },
+    "contact": {
+        "phone": "992.298.1171x846",
+        "servicePhone": "800155429"
+    },
+    "birthday": "1980-02-11",
+    "ip": "163.41.126.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Soon foreign issue now. They stuff foot behavior. Audience memory have similar. Everything happen seem assume.",
+        "bio": "Tell program executive whole station. Expect address reflect across teacher you. Itself home there so history."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}

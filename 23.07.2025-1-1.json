@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Cooper",
+    "age": 27,
+    "address": {
+        "street": "Sarah Ville",
+        "city": "Sarahtown",
+        "state": "Arizona",
+        "zip": "47179"
+    },
+    "contact": {
+        "phone": "985.843.0991x813",
+        "servicePhone": "800306660"
+    },
+    "birthday": "1998-10-03",
+    "ip": "144.153.33.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Painting consumer police family plant leader enjoy national. Which day he public much something kind expect. Significant home hope among type factor.",
+        "bio": "Ahead song describe beautiful chair TV blood. Several arrive despite million. Black mean visit free sell.\nWhose since charge parent."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}

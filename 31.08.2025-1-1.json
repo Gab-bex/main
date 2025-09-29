@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Torres",
+    "age": 0,
+    "address": {
+        "street": "Jeremy Village",
+        "city": "Sandersshire",
+        "state": "North Carolina",
+        "zip": "55300"
+    },
+    "contact": {
+        "phone": "(292)357-7288x55167",
+        "servicePhone": "800267986"
+    },
+    "birthday": "2025-25-03",
+    "ip": "216.69.230.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice player within program policy quality. Lawyer marriage avoid keep magazine. Happy hundred heart western. Stage can student item adult seven success parent.",
+        "bio": "Across blue school professional far. Ability ready audience road investment bit.\nHowever cause out create deep. Hand phone model. Later nearly become effort skin able break."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Jordan",
+    "age": 103,
+    "address": {
+        "street": "Hoover Gateway",
+        "city": "Crystalmouth",
+        "state": "Minnesota",
+        "zip": "31803"
+    },
+    "contact": {
+        "phone": "446-616-6775",
+        "servicePhone": "800776262"
+    },
+    "birthday": "1922-20-02",
+    "ip": "159.247.126.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Seat unit require growth explain. Relationship bank hold keep without. Green girl art arrive imagine.",
+        "bio": "However skin response machine work environment six. Officer weight conference rest sure.\nSpace foreign top. Cover sister how design or pick. Prepare finally skill fact agent."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}

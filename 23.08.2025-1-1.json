@@ -1,0 +1,25 @@
+{
+    "name": "Angie Alvarez",
+    "age": 3,
+    "address": {
+        "street": "Amy Parkways",
+        "city": "Lake John",
+        "state": "Arkansas",
+        "zip": "80118"
+    },
+    "contact": {
+        "phone": "(502)851-0567",
+        "servicePhone": "800353028"
+    },
+    "birthday": "2022-16-07",
+    "ip": "33.34.159.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Billion research your important drive. Partner support bit which population morning. Inside week wife point available employee.",
+        "bio": "However son conference present big argue. Home would tax focus. Truth third join response hand side to."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

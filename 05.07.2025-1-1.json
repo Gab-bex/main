@@ -1,0 +1,25 @@
+{
+    "name": "Dan Fischer",
+    "age": 47,
+    "address": {
+        "street": "Simmons Keys",
+        "city": "North Jacob",
+        "state": "Alaska",
+        "zip": "32885"
+    },
+    "contact": {
+        "phone": "995.253.8778",
+        "servicePhone": "800823205"
+    },
+    "birthday": "1978-27-03",
+    "ip": "93.65.214.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Military skin prevent. Speech far once operation ready both standard. Bill interest appear raise any.\nMind show capital ok. Meeting change wall suffer center action.",
+        "bio": "Office which run. Her culture way much national second. Should high whole those look type child.\nPolice similar budget. Like recently hand keep vote."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}

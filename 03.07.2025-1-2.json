@@ -1,0 +1,25 @@
+{
+    "name": "Whitney Krause",
+    "age": 11,
+    "address": {
+        "street": "Eaton Crossroad",
+        "city": "Sanchezburgh",
+        "state": "Minnesota",
+        "zip": "49243"
+    },
+    "contact": {
+        "phone": "916-879-1356x4504",
+        "servicePhone": "800979429"
+    },
+    "birthday": "2014-11-11",
+    "ip": "95.38.127.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Learn involve campaign. Lead most phone better program trip type explain. Start she industry those high.\nAnd husband maybe week. Treat very choice citizen factor there. Far imagine effect week.",
+        "bio": "Year during school commercial perhaps book. Home wide pick have entire goal reflect.\nMedical example star system kid. Almost poor book store meet control nature a. Plan book sister arm."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}

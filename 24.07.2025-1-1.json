@@ -1,0 +1,25 @@
+{
+    "name": "Shelby Kelly",
+    "age": 47,
+    "address": {
+        "street": "Amy Drives",
+        "city": "Port Thomasport",
+        "state": "Ohio",
+        "zip": "60357"
+    },
+    "contact": {
+        "phone": "(900)614-1440",
+        "servicePhone": "800872743"
+    },
+    "birthday": "1978-17-02",
+    "ip": "157.84.142.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Six scientist glass foot society finish. True get race cold something upon. Marriage fall trial born.",
+        "bio": "Memory indicate sister whole interview. Interest play kid paper. Possible quickly glass certainly once spring large.\nCold why rule religious. Campaign parent design perhaps standard often section."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}

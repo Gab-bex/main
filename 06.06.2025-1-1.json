@@ -1,0 +1,25 @@
+{
+    "name": "John Hancock",
+    "age": 50,
+    "address": {
+        "street": "Autumn Views",
+        "city": "East Shelbyberg",
+        "state": "Delaware",
+        "zip": "93369"
+    },
+    "contact": {
+        "phone": "001-295-347-2253x044",
+        "servicePhone": "800499861"
+    },
+    "birthday": "1975-23-08",
+    "ip": "62.16.77.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Story perhaps continue democratic boy less. Student since charge.\nFew act from new sign boy. Debate arm note. Be they push board minute cultural music husband.",
+        "bio": "Be magazine because offer member interview laugh direction. Check great inside how pass arm face. Bank site alone defense."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}

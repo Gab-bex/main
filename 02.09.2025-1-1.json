@@ -1,0 +1,25 @@
+{
+    "name": "Richard Brown",
+    "age": 32,
+    "address": {
+        "street": "Hickman Harbor",
+        "city": "Kennedyview",
+        "state": "Montana",
+        "zip": "77276"
+    },
+    "contact": {
+        "phone": "+1-750-838-2096x290",
+        "servicePhone": "800393064"
+    },
+    "birthday": "1993-13-04",
+    "ip": "161.18.150.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Also up risk consumer give. Under walk professional blood kitchen show conference. Just wonder break decade. Agreement allow have oil network.",
+        "bio": "Present wonder about remember. In moment kitchen center write policy.\nInclude listen carry class. Material baby hundred stand.\nOfficial century news war because. Early pay big including thus various."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}

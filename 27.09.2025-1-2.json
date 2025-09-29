@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Schwartz",
+    "age": 85,
+    "address": {
+        "street": "Howell Common",
+        "city": "South Phillip",
+        "state": "Missouri",
+        "zip": "41802"
+    },
+    "contact": {
+        "phone": "001-257-554-2701x2632",
+        "servicePhone": "800838897"
+    },
+    "birthday": "1940-28-03",
+    "ip": "199.113.103.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Thus mission threat. Fire manager camera history friend present establish social. Plant operation sound beautiful dinner whether. Campaign water more economic sound strategy quickly if.",
+        "bio": "Capital company process agency. Entire policy happen debate prevent now direction. Politics three network politics help."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}

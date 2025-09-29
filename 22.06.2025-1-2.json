@@ -1,0 +1,25 @@
+{
+    "name": "Robert Tucker",
+    "age": 88,
+    "address": {
+        "street": "Joshua Spring",
+        "city": "Alexischester",
+        "state": "Wyoming",
+        "zip": "52160"
+    },
+    "contact": {
+        "phone": "544-917-4170x196",
+        "servicePhone": "800521168"
+    },
+    "birthday": "1937-19-03",
+    "ip": "37.254.255.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Argue information ahead ready region. Inside east color fear.\nForward green science trouble plan above. Catch foreign town beat. Scientist set citizen in strategy.",
+        "bio": "Nor manage night accept. Then leg five these hold.\nWill lot day firm. Degree discussion save picture. Simply ask offer provide."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Baxter",
+    "age": 16,
+    "address": {
+        "street": "Alexander Oval",
+        "city": "East Amanda",
+        "state": "Arizona",
+        "zip": "11992"
+    },
+    "contact": {
+        "phone": "001-520-217-5474x06213",
+        "servicePhone": "800735359"
+    },
+    "birthday": "2009-29-04",
+    "ip": "79.224.171.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Citizen discover energy decade including year.\nDescribe employee around maybe. Others especially democratic all tell.",
+        "bio": "Would me wrong situation. This well life. Opportunity sing need design fast price. Film civil choice various size movie speech prove."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}

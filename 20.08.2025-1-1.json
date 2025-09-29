@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Evans",
+    "age": 99,
+    "address": {
+        "street": "Castaneda Island",
+        "city": "Lake Christophermouth",
+        "state": "Nevada",
+        "zip": "67083"
+    },
+    "contact": {
+        "phone": "277-317-7614",
+        "servicePhone": "800041810"
+    },
+    "birthday": "1926-25-02",
+    "ip": "88.13.39.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Year identify issue food involve life should. Guess sport save she. Actually ready television finally memory discussion. Bank major box computer central always spend.",
+        "bio": "Despite share other defense economy game important land. One expert game plan can public."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}

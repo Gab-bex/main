@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Sharp",
+    "age": 100,
+    "address": {
+        "street": "David Circles",
+        "city": "Jonathanmouth",
+        "state": "California",
+        "zip": "85786"
+    },
+    "contact": {
+        "phone": "828-313-0956",
+        "servicePhone": "800386351"
+    },
+    "birthday": "1925-05-05",
+    "ip": "201.184.4.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Particular should act service southern set.\nSit successful speak kid once alone. Field evening own do cover. Real answer represent story study remain board.",
+        "bio": "Certain free set fact without. Hard find tend machine head many attack."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}

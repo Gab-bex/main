@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Barnes",
+    "age": 23,
+    "address": {
+        "street": "Wallace Stream",
+        "city": "Juanchester",
+        "state": "South Carolina",
+        "zip": "63957"
+    },
+    "contact": {
+        "phone": "764-878-5643",
+        "servicePhone": "800620708"
+    },
+    "birthday": "2002-26-07",
+    "ip": "124.192.14.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Nature maintain daughter you nature. Partner attention beautiful.\nFill western yard third. Agreement popular represent area deal process.",
+        "bio": "Subject just safe since modern forward Congress. No west remain anything but. Two throughout able."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}

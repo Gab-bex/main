@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Brown",
+    "age": 43,
+    "address": {
+        "street": "Stephen Point",
+        "city": "Lake Danaville",
+        "state": "Mississippi",
+        "zip": "30976"
+    },
+    "contact": {
+        "phone": "459-346-8465x4757",
+        "servicePhone": "800974158"
+    },
+    "birthday": "1982-02-01",
+    "ip": "202.228.90.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Prove air song common daughter determine.\nPrice view section difference media. Election develop bad guess. Camera very democratic hope picture.",
+        "bio": "According long into recognize. Personal within last catch. Back career participant read picture catch truth. Sister enough today total."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}

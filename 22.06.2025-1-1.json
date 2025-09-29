@@ -1,0 +1,25 @@
+{
+    "name": "Arthur Smith",
+    "age": 81,
+    "address": {
+        "street": "Katrina Pines",
+        "city": "Chandlerstad",
+        "state": "Idaho",
+        "zip": "01732"
+    },
+    "contact": {
+        "phone": "896-205-3050x4791",
+        "servicePhone": "800153844"
+    },
+    "birthday": "1944-13-10",
+    "ip": "173.208.183.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Drug collection indeed. Goal better region product character relationship but. Not message community wonder everyone include arm.",
+        "bio": "Gas somebody notice lot money agreement. Treatment result check very second very. Worker memory public consider.\nYear edge explain coach hair hair. Bad within growth."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
